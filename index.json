@@ -1,0 +1,9 @@
+{
+  "name": "Synthetiq Flash Module",
+  "modules": [
+    {
+      "id": "the-flash-v1",
+      "packageUrl": "https://github.com/btito9152/synthetiq-flash-module/archive/refs/heads/main.zip"
+    }
+  ]
+}
