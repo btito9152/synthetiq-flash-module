@@ -1,0 +1,31 @@
+
+{
+  "schemaVersion": 1,
+  "repositoryId": "bryan-flash-modules",
+  "name": "Bryan's Flash Modules",
+  "enabled": true,
+  "publishedAtMs": 1795561200000,
+  "modules": [
+    {
+      "moduleId": "the-flash-v1",
+      "moduleFamilyId": "the-flash-v1",
+      "moduleIdentity": "SP-VID-099-FLASH",
+      "moduleIdentityNumber": 99,
+      "contentType": "video",
+      "version": "1.0.2",
+      "minAppVersion": "8.0.0",
+      "packageUrl": "https://github.com/btito9152/synthetiq-flash-module/archive/refs/heads/main.zip",
+      "packagePath": "/btito9152/synthetiq-flash-module/archive/refs/heads/main.zip",
+      "publishedAtMs": 1795561200000,
+      "changelog": [
+        "Initial community release of The Flash (2014). Includes 184 episode entries across seasons 1-9."
+      ],
+      "presentation": {
+        "category": "TV Shows",
+        "purpose": "The Flash (2014)",
+        "recommended": false,
+        "language": "English"
+      }
+    }
+  ]
+}
