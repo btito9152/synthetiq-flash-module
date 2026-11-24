@@ -1,0 +1,25 @@
+{
+  "id": "the-flash-v1",
+  "name": "The Flash",
+  "contentType": "video",
+  "contractVersion": 3,
+  "moduleVersion": "1.0.2",
+  "description": "A Synthetiq Player module for The Flash (2014).",
+  "moduleFamilyId": "the-flash-v1",
+  "moduleIdentity": "SP-VID-099-FLASH",
+  "moduleIdentityNumber": 99,
+  "releaseTrack": "stable",
+  "config": {
+    "runtime": {
+      "entry": "index.js",
+      "mode": "local"
+    },
+    "caps": {
+      "homeMaxResults": 30,
+      "maxResponseBytes": 5242880,
+      "timeoutMs": 30000,
+      "maxConcurrentRequests": 4
+    },
+    "baseUrl": "http://hls03.cdnvideo11.shop"
+  }
+}
